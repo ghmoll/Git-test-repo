@@ -1,1 +1,2 @@
-console.log('original, boring output');
+console.log('NeW, ExCiTiNg OuTpUt');
+console.log('oh, and this too');
